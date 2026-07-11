@@ -1,0 +1,9 @@
+# Bản export UI riêng, không dùng trong app chính (xem frontend/ mới là bản thật)
+FE/
+
+# Cấu hình Claude Code cá nhân, không chia sẻ qua git
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
