@@ -2,7 +2,7 @@
 FE/
 
 # Cấu hình Claude Code cá nhân, không chia sẻ qua git
-.claude/settings.local.json
+.claude/
 
 # OS
 .DS_Store
